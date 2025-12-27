@@ -1,0 +1,14 @@
+{
+  "name": "rainbow-6_project_backend",
+  "version": "1.0.0",
+  "description": "This is a practice project for me to learn node.js with express and axion and etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kexendi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
