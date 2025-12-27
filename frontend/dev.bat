@@ -1,1 +1,2 @@
-cls & ng serve
+cls;
+ng serve
