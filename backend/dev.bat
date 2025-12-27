@@ -1,2 +1,2 @@
 cls;
-npx nodemon index.js
+SET DEBUG=backend:* & npm start
